@@ -4,7 +4,7 @@ Also, the program shows when the tickets of a specific movie have been sold out.
 
 ## Prerequisites 
 Clone the repository `git clone <git@github.com:NafNgeru/my-first-website.git>`
-To view the live webpage, click on the live link: https://nafngeru.github.io/dictionary-app/
+To view the live webpage, click on the live link:  https://nafngeru.github.io/my-first-website/
 
 
 ### Author: Naftaly Ngeru
